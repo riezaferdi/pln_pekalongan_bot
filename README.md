@@ -1,5 +1,7 @@
 # pln_pekalongan_bot
 
+## Auto Update Instagram Post PLN Pekalongan to Discord
+
 ## Discord Bot
 To use this script:
 1. Install the required libraries:
